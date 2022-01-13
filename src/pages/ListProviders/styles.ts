@@ -101,7 +101,6 @@ export const ProviderMeta = styled.div`
   display: flex;
   margin-top: 0.313rem;
   align-items: center;
-  justify-content: right;
 
   svg {
     margin-right: 0.625rem;
